@@ -28,20 +28,15 @@ The purpose of this project is to develop a system that can sell cars online. Th
  - Push to the branch (git push origin improve-app)
  - Create a Pull request
  * Open the folder location on terminal and use the following command to run app:
- ## How To Run It
- >  $ pip install -r requirements.txt
  To install all requirements
- > $ python3 manage.py runserver
- Then run server with the above command
+ > $ node.js runserver
  *****
  ## Live Link
  Or you can access the web application directly via this [LINK.](link.com/)
  *****
  ## Dependencies
- - Package Name
- - Package Name
- - Package Name
- - Package Name
+ - jquery
+ - bootstrap
  *****
  ## Technologies Used
  1. HTML
@@ -51,8 +46,8 @@ The purpose of this project is to develop a system that can sell cars online. Th
  5. JavaScript
  *****
  ## Contact Information
- * Email : example@gmail.com
+ * Email : williammwangi44@gmail.com
  *****
  ## [License](LICENSE)
- MIT License
- Copyright (c) YEAR Author
+ Willy License
+ Copyright (c) YEAR 2022 Author William Mwangi
