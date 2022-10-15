@@ -34,7 +34,7 @@ The purpose of this project is to develop a system that can sell cars online. Th
  > $ node.js runserver
  *****
  ## Live Link
- Or you can access the web application directly via this [LINK.](link.com/)
+ king-willy.github.io/Finalproject/
  *****
  ## Dependencies
  - jquery
