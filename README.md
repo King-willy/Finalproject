@@ -3,12 +3,13 @@ Car Selling Web Application
  ### Author : Name Date
 William Mwangi  15/10/2022
  ## Project Description
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The purpose of this project is to develop a system that can sell cars online. The system will allow users to browse through a catalog of cars and select the one they want to buy. The system will then provide the user with a price quote and a list of dealerships that have the car in stock. The user will be able to choose a dealer from the list and purchase the car.you can log in and see categories of cars
  ******
- ## SCREENSHOTS
- - link 1
+  - link 1
+ ## SCREENSHOTS![Screenshot from 2022-10-15 13-55-18](https://user-images.githubusercontent.com/111878902/195982718-05dff186-47b5-4890-b28c-1c983cd131dc.png)
  - link 2
+ ![Screenshot from 2022-10-15 13-55-11](https://user-images.githubusercontent.com/111878902/195982747-1d8217ae-6dd0-4efe-95df-9eeabac5ddd0.png)
+
  ********
  ## SetUp Instruction
  ### Requirements
