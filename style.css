@@ -509,15 +509,3 @@ section{
 
 }
 
-
-@media (max-width:450px){
-
-    html{
-        font-size: 50%;
-    }
-
-    .heading{
-        font-size: 3rem;
-    }
-
-}
